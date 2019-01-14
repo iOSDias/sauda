@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SwiftEntryKit/Source/SwiftEntryKit.swift"
+            timestampString = "563221230.673337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "display(entry:using:presentInsideKeyWindow:rollbackWindow:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SwiftEntryKit.SwiftEntryKit.display(entry: __C.UIViewController, using: SwiftEntryKit.EKAttributes, presentInsideKeyWindow: Swift.Bool, rollbackWindow: SwiftEntryKit.SwiftEntryKit.RollbackWindow) -&gt; ()"
+                  moduleName = "SwiftEntryKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasermekbaev/Downloads/ORC/Pods/SwiftEntryKit/Source/SwiftEntryKit.swift"
+                  timestampString = "568969390.195538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in static SwiftEntryKit.SwiftEntryKit.display(entry: __C.UIViewController, using: SwiftEntryKit.EKAttributes, presentInsideKeyWindow: Swift.Bool, rollbackWindow: SwiftEntryKit.SwiftEntryKit.RollbackWindow) -&gt; ()"
+                  moduleName = "SwiftEntryKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diasermekbaev/Downloads/ORC/Pods/SwiftEntryKit/Source/SwiftEntryKit.swift"
+                  timestampString = "568969390.198753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

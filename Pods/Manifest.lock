@@ -1,0 +1,105 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireObjectMapper (5.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.3)
+  - BBBadgeBarButtonItem (1.2)
+  - Cosmos (17.0.0)
+  - DeviceKit (1.9.0)
+  - DZNEmptyDataSet (1.8.1)
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Core (1.7.0)
+  - ImageSlideshow/Kingfisher (1.7.0):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - Kingfisher (4.8.1)
+  - MGSwipeTableCell (1.6.7)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - ObjectMapper (3.3.0)
+  - Parchment (1.4.1)
+  - QuickLayout (2.1.1)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SnapKit (4.2.0)
+  - Spring (1.0.6)
+  - SwiftEntryKit (0.8.4):
+    - QuickLayout (= 2.1.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper (~> 5.0)
+  - BBBadgeBarButtonItem
+  - Cosmos
+  - DeviceKit
+  - DZNEmptyDataSet
+  - ImageSlideshow (~> 1.6)
+  - ImageSlideshow/Kingfisher
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.8.1)
+  - MGSwipeTableCell
+  - NVActivityIndicatorView
+  - Parchment
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SnapKit
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+  - SwiftEntryKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BBBadgeBarButtonItem
+    - Cosmos
+    - DeviceKit
+    - DZNEmptyDataSet
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MGSwipeTableCell
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - Parchment
+    - QuickLayout
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - SwiftEntryKit
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: fafd0b2e8d4d46405bd86fa7ba84bb7f73a20b13
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireObjectMapper: 3395e698901d8b0e6f48b7d0c43bd47875325102
+  BBBadgeBarButtonItem: c2fbca0bff18e21b70defc9438a8a5048008e7ca
+  Cosmos: 309e489f21ffc91a1eeecfebef7f817cd2fcfba6
+  DeviceKit: a376cb3d0dda0c27c81dcc0d2b7b8600b6802065
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  MGSwipeTableCell: fb20e983988bde2b8d0df29c2d9e1d8ffd10b74a
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Parchment: e6c2a3a0063739382dd207e21d48fe5e81f3324a
+  QuickLayout: 9af2b7fd89a6552828f51a5aba28d1bcdb8b340c
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+  SwiftEntryKit: f0dd54bb0fb9f234738cd15a32365265cb975be8
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 2f1d42436ea10799f20cbffb1079b87b5dfe2487
+
+COCOAPODS: 1.5.0
